@@ -94,5 +94,5 @@ Stake側にエラーが起きた時に送信されます
 ![2](img/12.png)  
 ![2](img/13.png)  
 ## コンタクト
-サーバー / https://discord.gg/aSyaAK7Ktm
+サーバー / https://discord.gg/aSyaAK7Ktm  
 Discord / .taka.
